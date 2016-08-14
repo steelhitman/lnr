@@ -1,0 +1,19 @@
+#form{
+	background-color:black;
+	color:white;
+	opacity:50%
+}
+#id{
+	color:black;
+}
+#heading{
+	color:white;
+	text-align:center;
+}
+#body{
+	background-color:grey;
+}
+.fieldset{
+	padding: 2px 2px 2px 2px;
+	border: 4px 4px 4ps 4px;
+}
